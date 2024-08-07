@@ -1,0 +1,3 @@
+C:/Users/joelg/OneDrive/Desktop/Tarea-1-CE-1103/Tareaaa/cmake-build-debug/CMakeFiles/Generator.dir
+C:/Users/joelg/OneDrive/Desktop/Tarea-1-CE-1103/Tareaaa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/joelg/OneDrive/Desktop/Tarea-1-CE-1103/Tareaaa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
